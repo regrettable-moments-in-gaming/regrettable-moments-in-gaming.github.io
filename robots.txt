@@ -1,0 +1,19 @@
+User-agent: *
+
+
+Disallow: /posts/
+
+Disallow: /
+
+Disallow: /posts/valheim-troll/
+
+Disallow: /about/
+
+Disallow: /categories/
+
+Disallow: /contact/
+
+Disallow: /series/
+
+Disallow: /tags/
+
